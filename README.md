@@ -26,6 +26,7 @@ The Detection Lab project aimed to establish a controlled environment for simula
 
 #### Steps 
 
+My first task involved configuring and installing a virtual machine.
 <img width="1440" alt="Screenshot 2024-01-31 at 10 05 55" src="https://github.com/Tobbylab/detection-lab-/assets/156073290/da709551-4054-4d49-9f15-1a87942b42f2">
 
 <img width="1440" alt="Screenshot 2024-01-31 at 10 06 11" src="https://github.com/Tobbylab/detection-lab-/assets/156073290/85a57eff-f731-4626-938a-90ee24dcb3d6">
