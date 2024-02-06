@@ -31,3 +31,5 @@ The Detection Lab project aimed to establish a controlled environment for simula
 <img width="1440" alt="Screenshot 2024-01-31 at 10 06 11" src="https://github.com/Tobbylab/detection-lab-/assets/156073290/85a57eff-f731-4626-938a-90ee24dcb3d6">
 
 <img width="1440" alt="Screenshot 2024-01-31 at 10 06 23" src="https://github.com/Tobbylab/detection-lab-/assets/156073290/f1cf6a9a-3b35-4414-a0c7-5a920d2daf97">
+
+<img width="1440" alt="Screenshot 2024-01-31 at 10 07 02" src="https://github.com/Tobbylab/detection-lab-/assets/156073290/851c7f22-1e2e-44e5-b92d-2b36a00b88e1">
